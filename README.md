@@ -14,6 +14,8 @@ Yet another Thai Word Segmentation that employs multiple linguistic information,
 _CWCC-WCON_
 - CoNLL (word-level): 97.67
     - [conlleval]( https://github.com/spyysalo/conlleval.py)
+    - A simplified word-level evaluation script
+        -  https://github.com/tchayintr/word-level-eval.py
 - BIES (character-level): 98.99
 - Boundary (boundary-level): 99.38
     - http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.858.pdf 
