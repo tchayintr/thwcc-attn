@@ -1,4 +1,4 @@
-# Character-based Thai Word Segmentation with Multiple Attention
+# Character-based Thai Word Segmentation with Multiple Attentions
 #### _thwcc-attn_
 
 Yet another Thai Word Segmentation that employs multiple linguistic information, including characters, character-cluster, subwords, and words, with attention mechanisms.
@@ -69,12 +69,12 @@ _Modes can be specified by executing the following the sample scripts_
     - ``./sample_scripts/sample_seg_wcc.sh``
 
 #### Logs
-- A log file will be saved in log 
+- A log file will be saved in ``log`` 
     - training/evaluating scores
     - hyperparameters
 
 #### Trained models
-- Trained models will be saved in models/main
+- Trained models will be saved in ``models/main``
     - hyperparameters
     - dictionary
     - checkpoint for each break point
