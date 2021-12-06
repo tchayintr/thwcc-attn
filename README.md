@@ -83,4 +83,4 @@ _Modes can be specified by executing the following the sample scripts_
 -  Implementations based on modification of [seikanlp](https://github.com/shigashiyama/seikanlp)
 
 ### Citation
-- TBA
+- https://aclanthology.org/2021.ranlp-1.31/
